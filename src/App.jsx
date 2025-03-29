@@ -1,5 +1,4 @@
 import './App.css'
-import About from './pages/about'
 import Contact from './pages/Contact'
 import Home from './pages/home'
 import Navbar from './pages/Navbar'
