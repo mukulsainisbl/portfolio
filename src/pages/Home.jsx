@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Typewriter } from "react-simple-typewriter";
-import profile from "../assets/profile.png";
+import profile from "../assets/profile.jpg";
 import { FiGithub, FiLinkedin } from "react-icons/fi";
 import { Link } from "react-scroll";
 
@@ -111,7 +111,7 @@ const Home = () => {
         <div className="w-full md:w-1/2 flex justify-center items-center">
           <div className="relative w-48 h-48 md:w-72 md:h-72 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-black shadow-2xl">
             <img
-              className="w-full h-full object-cover"
+              className="w-full h-full object-scale-down scale-100"
               src={profile}
               alt="Mukul Saini Profile"
             />
