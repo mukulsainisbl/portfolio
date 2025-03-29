@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import {  useEffect, useState } from "react";
-import { FaInstagram, FaLinkedinIn, FaGithub, FaRegHeart, FaHeart } from "react-icons/fa";
+import { FaInstagram, FaLinkedinIn, FaGithub,  FaHeart } from "react-icons/fa";
 import { BsFillTelephoneFill } from "react-icons/bs";
 import { MdOutlineMail, MdLocationOn } from "react-icons/md";
 import emailjs from "@emailjs/browser"
