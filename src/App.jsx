@@ -1,6 +1,6 @@
 import './App.css'
 import Contact from './pages/Contact'
-import Home from './pages/home'
+import Home from './pages/Home'
 import Navbar from './pages/Navbar'
 import Project from './pages/project'
 import Skills from './pages/Skills'
@@ -14,7 +14,6 @@ function App() {
 
      <Navbar />
      <Home/>
-     
      <Skills/>
      <Project/>
      <Statistics/>
