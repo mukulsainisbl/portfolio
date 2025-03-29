@@ -26,6 +26,7 @@ const skills = [
   { name: "Chakra UI", icon: <SiChakraui className="text-teal-400" /> },
 ];
 
+
 const Skills = () => {
   return (
     <section

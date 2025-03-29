@@ -1,9 +1,15 @@
 
 const Project = () => {
+
+
+
   return (
-    <div id="projects" className="h-screen flex items-center justify-center bg-red-500 text-white text-4xl">
-      Project Section
-    </div>
+    <section className="h-screen  bg-red-300">
+      <p className="text-center pt-5 border items-center text-4xl font-bold font-serif ">Projects</p>
+     
+ <h1 style={{fontSize: "80px" , textAlign : "center",}}>Add Later</h1>
+     
+       </section>
   )
 }
 
