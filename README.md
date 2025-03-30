@@ -53,7 +53,7 @@ To run this project locally, follow these steps:
 ---
 
 ## 🚀 Deployment
-This portfolio is deployed using **Vercel / Netlify / Render**. To deploy manually:
+This portfolio is deployed using **Vercel**. To deploy manually:
 
 1. **Build the project:**
    ```sh
@@ -75,7 +75,6 @@ This portfolio is deployed using **Vercel / Netlify / Render**. To deploy manual
 - **LinkedIn:** [Mukul Saini](https://www.linkedin.com/in/mukul-saini-sambhal/)
 - **Email:** mukulsaini@example.com
 - **Mobile:** 9719105128
-- 
 
 ---
 
