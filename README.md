@@ -64,7 +64,9 @@ This portfolio is deployed using **Vercel / Netlify / Render**. To deploy manual
 ---
 
 ## 📷 Screenshots
-![Portfolio Screenshot]() (Replace with an actual screenshot)
+![Portfolio Screenshot](https://drive.google.com/uc?export=download&id=1Sw8mJhAVofYiIN2_hX87imEskurGDCSg) (Replace with an actual screenshot)
+![Portfolio Screenshot](https://drive.google.com/uc?export=download&id=13w76rzlFuvQmUuff4I6uQbKrKIxnKppv) (Replace with an actual screenshot)
+![Portfolio Screenshot](https://drive.google.com/uc?export=download&id=1bx2zhahLTypBCKA2NYIaYgEg3KLPzXI6) (Replace with an actual screenshot)
 
 ---
 
