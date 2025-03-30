@@ -64,16 +64,18 @@ This portfolio is deployed using **Vercel / Netlify / Render**. To deploy manual
 ---
 
 ## 📷 Screenshots
-![Portfolio Screenshot](https://drive.google.com/uc?export=download&id=1Sw8mJhAVofYiIN2_hX87imEskurGDCSg) (Replace with an actual screenshot)
-![Portfolio Screenshot](https://drive.google.com/uc?export=download&id=13w76rzlFuvQmUuff4I6uQbKrKIxnKppv) (Replace with an actual screenshot)
-![Portfolio Screenshot](https://drive.google.com/uc?export=download&id=1bx2zhahLTypBCKA2NYIaYgEg3KLPzXI6) (Replace with an actual screenshot)
+![Portfolio Screenshot](https://drive.google.com/uc?export=download&id=1Sw8mJhAVofYiIN2_hX87imEskurGDCSg)
+![Portfolio Screenshot](https://drive.google.com/uc?export=download&id=13w76rzlFuvQmUuff4I6uQbKrKIxnKppv)
+![Portfolio Screenshot](https://drive.google.com/uc?export=download&id=1bx2zhahLTypBCKA2NYIaYgEg3KLPzXI6) 
 
 ---
 
 ## 📩 Connect with Me
 - **GitHub:** [mukulsainisbl](https://github.com/mukulsainisbl)
 - **LinkedIn:** [Mukul Saini](https://www.linkedin.com/in/mukul-saini-sambhal/)
-- **Email:** mukulsaini@example.com (Replace with your email)
+- **Email:** mukulsaini@example.com
+- **Mobile:** 9719105128
+- 
 
 ---
 
