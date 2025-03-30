@@ -1,91 +1,80 @@
-# 🚀 Mukul Saini - Portfolio
+# 🚀 Mukul Saini - Developer Portfolio
 
-Welcome to my personal portfolio! This project showcases my skills, projects, and experience as a **Full Stack Developer** proficient in the **MERN stack**. Built with modern technologies, it features a **responsive and interactive UI**.
+Welcome to my personal **developer portfolio** showcasing my skills, projects, and experiences in Full Stack Web Development. Built using **React, Tailwind CSS, and Framer Motion**, this portfolio highlights my expertise in frontend and backend technologies.
 
----
+![Portfolio Screenshot](https://drive.google.com/uc?export=download&id=1S4DgohfSDi1g9QBbwASg129nKDl0eJxV)
 
-## 🌟 Features
-
-✅ Fully responsive design\
-✅ Animated typewriter effect for introduction\
-✅ Dynamic skill showcase with rotating tech stack icons\
-✅ Smooth scrolling and navigation\
-✅ Downloadable resume\
-✅ Contact form integration
+## 🔗 Live Demo
+[View Portfolio](#) (https://portfolio-lt6p.vercel.app/)
 
 ---
 
-## 🛠️ Tech Stack
-
-| **Frontend** | **Backend** | **Database** | **Deployment** | **Other Tools** |
-| ------------ | ----------- | ------------ | -------------- | --------------- |
-| React.js     | Node.js     | MongoDB      | Vercel         | Git             |
-| Tailwind CSS | Express.js  |              |                | FramerMotion    |
-
----
-
-## 📸 Screenshots
-
-### 🖥️ Visual Preview
-
-📌 **Homepage Full Screenshot**\
-
-
-📌 **Side-by-Side View**
-
-| [screenshot1](https://drive.google.com/uc?export=download&id=1Sw8mJhAVofYiIN2_hX87imEskurGDCSg)  | [screenshot2(https://drive.google.com/file/d/13w76rzlFuvQmUuff4I6uQbKrKIxnKppv/view?usp=sharing)]  |
-| - | - |
-
-📌 **Centered Fourth Screenshot**\
-
+## 📌 Features
+✅ **Interactive & Responsive UI** - Designed with Tailwind CSS for a modern and seamless experience.  
+✅ **Animated Tech Stack Icons** - Technologies orbit around the profile picture dynamically.  
+✅ **Smooth Typewriter Effect** - Displays multiple developer roles.  
+✅ **Resume Download & Contact Section** - Easily accessible for potential employers.  
+✅ **Social Media Links** - GitHub and LinkedIn integration.  
 
 ---
 
-## 🏗️ Installation & Setup
-
-Follow these steps to run the project locally:
-
-1️⃣ Clone the repository:
-
-```sh
-git clone https://github.com/mukulsainisbl/portfolio.git
-```
-
-2️⃣ Navigate to the project directory:
-
-```sh
-cd portfolio
-```
-
-3️⃣ Install dependencies:
-
-```sh
-npm install
-```
-
-4️⃣ Start the development server:
-
-```sh
-npm start
-```
+## 🛠 Tech Stack
+- **Frontend:** React.js, Tailwind CSS, Framer Motion
+- **Animation:** Framer Motion, react-simple-typewriter
+- **Icons:** React Icons
+- **Smooth Scrolling:** react-scroll
 
 ---
 
-## 🌐 Live Demo
+## 📥 Installation & Setup
+To run this project locally, follow these steps:
 
-🎯 **Check out the live version here:**\
-🔗 [Portfolio Website](https://portfolio-lt6p.vercel.app/)
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/mukulsainisbl/portfolio.git
+   ```
+
+2. **Navigate to the project directory:**
+   ```sh
+   cd portfolio
+   ```
+
+3. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+
+4. **Start the development server:**
+   ```sh
+   npm run dev
+   ```
+   The app should now be running on `http://localhost:5173/`
 
 ---
 
-## 📬 Contact Me
+## 🚀 Deployment
+This portfolio is deployed using **Vercel / Netlify / Render**. To deploy manually:
 
-📌 **GitHub:** [mukulsainisbl](https://github.com/mukulsainisbl)\
-📌 **LinkedIn:** [Mukul Saini](https://www.linkedin.com/in/mukul-saini-sambhal/)\
-📌 **Email:** [mukulsainisbl1234@gmail.com](mailto\:mukulsainisbl1234@gmail.com)\
-📌 **Phone:** 9719105128
+1. **Build the project:**
+   ```sh
+   npm run build
+   ```
+2. **Deploy the `dist/` folder to any static hosting provider.**
 
 ---
 
-### ⭐ Don't forget to star the repository if you like it!
+## 📷 Screenshots
+![Portfolio Screenshot]() (Replace with an actual screenshot)
+
+---
+
+## 📩 Connect with Me
+- **GitHub:** [mukulsainisbl](https://github.com/mukulsainisbl)
+- **LinkedIn:** [Mukul Saini](https://www.linkedin.com/in/mukul-saini-sambhal/)
+- **Email:** mukulsaini@example.com (Replace with your email)
+
+---
+
+### ⭐ Show Some Love
+If you like this project, give it a ⭐ on GitHub! 😊
 
