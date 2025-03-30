@@ -21,7 +21,7 @@ const Navbar = () => {
     setIsActive(!isActive);
   };
 
-  const navItems = ["Home", "About", "Skills", "Projects", "Statistics", "Contact"];
+  const navItems = ["Home", "Skills", "Projects", "Statistics", "Contact"];
 
   return (
     <motion.header
@@ -29,13 +29,19 @@ const Navbar = () => {
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
       className={`fixed top-0 left-0 w-full z-50 transition-all duration-300 ${
-        isScrolled || isActive ? "bg-white shadow-md" : "bg-transparent border-b border-gray-300"
+        isScrolled || isActive ? "bg-white shadow-md" : "bg-transparent border-b  border-gray-300"
       }`}
-      
     >
-      <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-3 sm:py-2 ">
-        {/* Logo */}
-        <div className="text-2xl font-serif font-bold text-black">Mukul</div>
+      <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-3 sm:py-2">
+        {/* Logo (Clicking navigates to Home) */}
+        <Link
+          to="home"
+          smooth={true}
+          duration={500}
+          className="text-2xl font-serif font-bold text-black cursor-pointer"
+        >
+          Mukul
+        </Link>
 
         {/* Desktop Navigation */}
         <nav className="hidden lg:flex gap-8 text-lg font-medium">
@@ -112,7 +118,7 @@ const Navbar = () => {
 
         {/* Overlay when menu is open */}
         {isActive && (
-          <div className="fixed inset-0  bg-black opacity-50 z-40" onClick={handleToggle}></div>
+          <div className="fixed inset-0 bg-black opacity-50 z-40" onClick={handleToggle}></div>
         )}
       </div>
     </motion.header>

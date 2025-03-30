@@ -51,3 +51,11 @@ body{
   .delay-400 { animation-delay: 400ms; }
 
 
+  /* Add this to your global CSS */
+.Typewriter__wrapper {
+  color: inherit !important;
+}
+
+.Typewriter__cursor {
+  color: inherit !important;
+}
